@@ -1,8 +1,6 @@
 # Jadoo Project – Web Development
 
-**Jadoo** is a travel website developed as part of the **Web Development** course project.  
-It is built using **PHP, HTML, CSS**, and **phpMyAdmin** for database management.  
-The system consists of a frontend for users to explore travel content and a backend for admins to manage tourism data.
+**Jadoo** is a travel website developed as part of the **Web Development** course project. It is built using **PHP, HTML, CSS**, and **phpMyAdmin** for database management. The system consists of a frontend for users to explore travel content and a backend for admins to manage tourism data.
 
 ## Disclaimer
 This website layout is optimized for **desktop view**. Some elements may not be fully responsive on mobile devices.
