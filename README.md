@@ -27,7 +27,7 @@ The repository contains the following main files and folders:
 - **Plan Your Trip** – Detailed information for each destination.
 - **Admin Panel (Backend)** – Allows admin to:
   - Log in securely  
-  - Manage tourism data (e.g., destinations, packages, testimonials)  
+  - Manage tourism data (e.g., category, destinations, testimonials)  
   - Update & delete content 
 
 ## Technologies Used
