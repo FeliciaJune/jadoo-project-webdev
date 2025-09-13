@@ -37,5 +37,5 @@ The repository contains the following main files and folders:
 - **phpMyAdmin** – Database management  
 - **XAMPP** – Local development server  
 
-## Developers
+## Developer
 **Felicia June** 
