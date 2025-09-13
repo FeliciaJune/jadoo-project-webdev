@@ -1,0 +1,7 @@
+/* row bawah */
+.row-bawah {overflow: hidden; background-color: rgb(22, 72, 116);}
+.row-bawah .column {float: left;
+    width: 300px;
+    margin: 20px 22px;}
+.row-bawah .column a {color: white; color: rgb(123, 222, 255);}
+.row-bawah .column p {color: white;}

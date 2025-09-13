@@ -1,0 +1,25 @@
+* {padding: 0; margin: 0}
+
+/* body */
+body {font-family: sans-serif;}
+
+/* navbar */
+.navbar-nav a:hover {color:rgb(255, 221, 0) !important;}
+
+/* testi */
+.testi {overflow: hidden; margin-top: 30px;}
+.testi .kiri {
+    float: left;
+    width: 400px; height: 300px;
+    padding: 10px;  margin: 20px 0px; margin-right: 150px;}
+.testi .kanan {
+    float: left;
+    width: 500px; height: 300px;
+    padding: 10px;  margin: 20px 0px; margin-left: 65px;}
+
+/* desc */
+.desc {overflow: hidden; margin-top: 30px;}
+.desc .keterangan {float: left; width: 500px;}
+.desc .keterangan .keterangan-bawah .bawah-kiri {float: left; width: 200px;}
+.desc .keterangan .keterangan-bawah .bawah-kanan {float: right; width: 300px;}
+.desc .gambarkanan {float: right; width: 580px;}
