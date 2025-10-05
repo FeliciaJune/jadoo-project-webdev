@@ -6,9 +6,8 @@
 This website layout is optimized for **desktop view**. Some elements may not be fully responsive on mobile devices.
 
 ## Demo
-- **Frontend (Website view):** https://jadooweb.rf.gd/a_WEBPHP/frontend/
-- **Backend (Admin login):** https://jadooweb.rf.gd/a_WEBPHP/backend/login.php  
-
+This project runs locally. Please start it on localhost using XAMPP and access it via the browser. The main web interface can be opened at **frontend/** and the admin login can be opened at **backend/** using the following credentials: Username = Jay, Password = 25. Database is managed via phpMyAdmin.
+ 
 ## Project Structure
 The repository contains the following main files and folders:
 
